@@ -3,7 +3,7 @@
 
 ## Script
 I wrote this script with the following problem in mind: I wanted to make a mosaic,
-for which I thought of using [Idee's tiles](https://www.idee-shop.com/rico-design-soft-glas-mosaiksteine-185g); 
+for which I thought of using [Idee's tiles](https://www.idee-shop.com/rico-design-tiffany-mosaiksteine-10x10mm-200g); 
 but before buying the tiles, I needed to have an idea of how many tiles I would need for each colour.
 
 Luckily there are detailed pictures of each kind of tile on Idee's website, so I could write a script that:
