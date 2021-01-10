@@ -13,6 +13,8 @@ Luckily there are detailed pictures of each kind of tile on Idee's website, so I
 3. Fills each tile with the average colour of its content;
 4. Finds for each tile the most similar tile from Idee.
 
+Read more [here](https://naelvis.github.io/refactored-happiness/posts/mosaic/).
+
 ## Example
 
 On the left the source image, on the right the image tiled with Idee's tiles:
