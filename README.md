@@ -44,3 +44,8 @@ Other than providing the number of tiles for each colour:
 | T   | 526        |
 | U   | 42        |
 | V   | 782        |
+
+This is me with the result:
+
+![](example/output3.jpeg)
+
